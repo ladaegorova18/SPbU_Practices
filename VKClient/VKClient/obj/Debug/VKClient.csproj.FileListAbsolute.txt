@@ -1,0 +1,9 @@
+C:\Users\Home\Documents\Repositories\SPbU_Practices\VKClient\VKClient\bin\Debug\VKClient.exe.config
+C:\Users\Home\Documents\Repositories\SPbU_Practices\VKClient\VKClient\bin\Debug\VKClient.exe
+C:\Users\Home\Documents\Repositories\SPbU_Practices\VKClient\VKClient\bin\Debug\VKClient.pdb
+C:\Users\Home\Documents\Repositories\SPbU_Practices\VKClient\VKClient\obj\Debug\VKClient.csprojAssemblyReference.cache
+C:\Users\Home\Documents\Repositories\SPbU_Practices\VKClient\VKClient\obj\Debug\VKClient.exe
+C:\Users\Home\Documents\Repositories\SPbU_Practices\VKClient\VKClient\obj\Debug\VKClient.pdb
+C:\Users\Home\Documents\Repositories\SPbU_Practices\VKClient\VKClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Home\Documents\Repositories\SPbU_Practices\VKClient\VKClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Home\Documents\Repositories\SPbU_Practices\VKClient\VKClient\obj\Debug\VKClient.csproj.CopyComplete
